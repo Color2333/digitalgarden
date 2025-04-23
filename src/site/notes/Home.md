@@ -1,5 +1,5 @@
 ---
-{"dg-home":"true","dg-publish":true,"banner":"![infinity-19569470.jpg](/img/user/src/infinity-19569470.jpg)","banner_y":0.092,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-home":"true","dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## 前言--(20 岁生日)
